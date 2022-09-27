@@ -1,5 +1,8 @@
 _repo: The-prey-of-the-strongest_69014
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69014-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Roberts, Morley
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6241
     wikipedia: https://en.wikipedia.org/wiki/Morley_Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69014#The-prey-of-the-strongest
 gutenberg_issued: '2022-09-19'
 identifiers:
   gutenberg: '69014'
